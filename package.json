@@ -2,7 +2,7 @@
   "name": "express-mesto",
   "version": "1.0.0",
   "description": "not now",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/DelightVLG/express-mesto.git"
   },
-  "author": "",
+  "author": "Sergei Kompanietc",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DelightVLG/express-mesto/issues"
